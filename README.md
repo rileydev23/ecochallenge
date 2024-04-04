@@ -1,7 +1,7 @@
 # proyecto-2-ui
 
 
-### Integrantes
+## Integrantes
 
 - Billy Martinez
 - Bayron Muñoz
