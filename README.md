@@ -5,7 +5,7 @@
 
 - Billy Martinez
 - Bayron Muñoz
-- 
+- Joaquin Aracena
 - Nicolas Pelizari
 
 
