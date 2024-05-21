@@ -55,15 +55,3 @@
 ---
 
 ## 8. Mockups
-
----
-
-## UX PEOPLE
-
-
-
-## Propuesta de valor
-
-
-## Benchmarking
-
