@@ -52,6 +52,7 @@ Furthermore, benchmarking allows us to identify areas for improvement and opport
 ![Benchmarking](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Benchmarking.png?raw=true)
 
 ## 6. Customer Journey Map
+![Customer Journey Map](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Customer%20Journey%20Map.png)
 ## 7. Navigation
 ## 8. Wireframes
 The wireframe is a document that illustrates the overall vision of the project through the precise composition of various navigation components. It serves as a template for construction, facilitating the transmission of the complexity of the outcome. This initial step is crucial to confirm whether the product will meet expectations.
