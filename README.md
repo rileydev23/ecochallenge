@@ -49,10 +49,10 @@ Upon careful analysis of the evaluated products, we can recognize aspects that w
 
 Furthermore, benchmarking allows us to identify areas for improvement and opportunities to optimize EcoChallenge. For example, we noticed a lack of diversity in posts and the need to eliminate redundant features, such as a calendar that does not align with the application and adds no value. We also recognize the importance of reducing image loading times for posts and enhancing the user experience by introducing a dark mode and removing the requirement for mandatory profile pictures.
 
-![Benchmarking](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Customer%20Journey%20Map%20Whiteboard.png)
+![Benchmarking](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Benchmarking.png)
 
 ## 6. Customer Journey Map
-![Customer Journey Map](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Customer%20Journey%20Map.png)
+![Customer Journey Map](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Customer%20Journey%20Map%20Whiteboard.png)
 ## 7. Navigation
 ## 8. Wireframes
 The wireframe is a document that illustrates the overall vision of the project through the precise composition of various navigation components. It serves as a template for construction, facilitating the transmission of the complexity of the outcome. This initial step is crucial to confirm whether the product will meet expectations.
