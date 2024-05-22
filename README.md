@@ -13,8 +13,7 @@
 
 ---
 ## 1. Introduction
-Reducing the carbon footprint is a crucial concern for young urban professionals. However, their busy lifestyles often make it challenging to adopt sustainable habits. To address this issue, we propose the development of a mobile application tailored to their needs, aiming to make sustainability practices accessible and engaging.
-
+Reducing the carbon footprint is a crucial concern for young urban professionals. However, their busy lifestyles often make it challenging to adopt sustainable habits. To address this issue, we propose the development of a mobile application tailored to their needs, aiming to make sustainability practices accessible and engaging through fun activities and challenges.
 
 
 ## 2. Team
