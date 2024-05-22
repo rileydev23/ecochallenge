@@ -57,6 +57,9 @@ The Customer Journey Map is an essential tool for comprehending the user experie
 ![Customer Journey Map](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Customer%20Journey%20Map%20Whiteboard.png)
 
 ## 7. Navigation
+
+![Navigation](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Navigation.png)
+
 ## 8. Wireframes
 The wireframe is a document that illustrates the overall vision of the project through the precise composition of various navigation components. It serves as a template for construction, facilitating the transmission of the complexity of the outcome. This initial step is crucial to confirm whether the product will meet expectations.
 ## 9. Mockups
