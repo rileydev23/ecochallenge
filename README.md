@@ -52,7 +52,10 @@ Furthermore, benchmarking allows us to identify areas for improvement and opport
 ![Benchmarking](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Benchmarking.png)
 
 ## 6. Customer Journey Map
+The Customer Journey Map is an essential tool for comprehending the user experience with our product or service. By meticulously charting each stage, from initial contact to ongoing interactions, we can pinpoint emotions, needs, and key moments. This analysis reveals challenges and opportunities to enhance the experience and craft exceptional solutions. Immersing ourselves in the user's perspective allows us to create memorable experiences and deepen our relationship with them.
+
 ![Customer Journey Map](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Customer%20Journey%20Map%20Whiteboard.png)
+
 ## 7. Navigation
 ## 8. Wireframes
 The wireframe is a document that illustrates the overall vision of the project through the precise composition of various navigation components. It serves as a template for construction, facilitating the transmission of the complexity of the outcome. This initial step is crucial to confirm whether the product will meet expectations.
