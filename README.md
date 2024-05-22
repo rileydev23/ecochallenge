@@ -63,6 +63,11 @@ The Customer Journey Map is an essential tool for comprehending the user experie
 
 The wireframe is a document that illustrates the overall vision of the project through the precise composition of various navigation components. It serves as a template for construction, facilitating the transmission of the complexity of the outcome. This initial step is crucial to confirm whether the product will meet expectations.
 
+![m1](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/m1.png)
+![m2](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/m2.png)
+![m3](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/m3.png)
+![m4](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/m4.png)
+
 ## 9. Mockups
 
 This section shows the mockups developed as a solution, for a better visualization you can visit the project in figma together with its functionalities [here](https://www.figma.com/design/i74SvlQQXVzXy1204Y0b3C/starbucks?node-id=0%3A1&t=aN5fjQuoTO1s2Wse-1).
