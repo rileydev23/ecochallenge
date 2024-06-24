@@ -13,7 +13,13 @@
 
 ---
 ## 1. Introduction
-Reducing the carbon footprint is a crucial concern for young urban professionals. However, their busy lifestyles often make it challenging to adopt sustainable habits. To address this issue, we propose the development of a mobile application tailored to their needs, aiming to make sustainability practices accessible and engaging through fun activities and challenges.
+Reducing the carbon footprint has become increasingly urgent as global temperatures surpass historical levels, with the Earth currently 1.1°C warmer than in the 19th century. Despite international agreements like the Paris Accord aiming to limit global warming to 1.5°C, current trends suggest we are not on track to meet this target. This poses severe consequences for climate stability and ecosystems worldwide. (United Nations, 2023)
+
+For young urban professionals, balancing hectic work schedules and responsibilities often hinders their ability to adopt sustainable practices such as recycling or using public transport. Their interest in addressing climate change is evident, yet the constraints of their lifestyles present a significant barrier.
+
+To bridge this gap, there is a compelling need for innovative solutions tailored to their circumstances. One promising approach involves the development of a mobile application designed to integrate sustainable habits seamlessly into their daily lives. By gamifying sustainable actions and offering practical tips, this app aims to empower young professionals to make impactful environmental choices despite their time constraints.
+
+By leveraging technology to align environmental stewardship with their busy lifestyles, we can foster a generation committed to reducing carbon emissions and mitigating the effects of climate change.
 
 
 ## 2. Team
@@ -76,3 +82,7 @@ This section shows the mockups developed as a solution, for a better visualizati
 ![w2](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/w2.png)
 ![w3](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/w3.png)
 ![w4](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/w4.png)
+
+## 10. Biblioggraphy
+
+United Nations. (2023). Fast facts on climate and temperature rise. United Nations. https://www.un.org/sites/un2.un.org/files/fastfacts_temperature_rise.pdf
