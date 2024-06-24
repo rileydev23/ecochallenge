@@ -40,9 +40,9 @@ Our project aligns with the Strategy plane of the Elements of User Experience fr
 
 EcoChallenge is  designed to cater to the needs of busy young professionals, offering a user-friendly application that seamlessly integrates sustainable practices into their hectic lives. Recognizing their time constraints, the app presents small, actionable sustainability habits that require minimal effort and time commitment. Through its emphasis on community engagement, users are encouraged to share their sustainable habits and achievements, fostering a culture of shared responsibility and collective action. By empowering users to prioritize environmental consciousness within their social circles, EcoChallenge promotes sustainable living as a collaborative effort, making a meaningful impact on the environment while navigating the demands of modern life.
 
-![1](https://github.com/rileydev23/proyecto-2-ui/assets/62442550/a9799550-822f-4816-b5d0-42cac7d86e59)
-![2](https://github.com/rileydev23/proyecto-2-ui/assets/62442550/c2a2e5d1-87b7-4cfa-bacd-ea4c6b068955)
-![3](https://github.com/rileydev23/proyecto-2-ui/assets/62442550/3ca383af-9045-4f66-97ad-23e6136af2ab)
+![1](https://github.com/rileydev23/ecochallenge/blob/main/uxpeople/Emily.png)
+![2](https://github.com/rileydev23/ecochallenge/blob/main/uxpeople/Mark.png)
+![3](https://github.com/rileydev23/ecochallenge/blob/main/uxpeople/Sophie.png)
 
 ---
 
