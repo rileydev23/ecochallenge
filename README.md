@@ -77,10 +77,10 @@ The wireframe is a document that illustrates the overall vision of the project t
 
 This section shows the mockups developed as a solution, for a better visualization you can visit the project in figma together with its functionalities [here](https://www.figma.com/design/i74SvlQQXVzXy1204Y0b3C/starbucks?node-id=0%3A1&t=aN5fjQuoTO1s2Wse-1).
 
-![w1](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/w1.png)
-![w2](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/w2.png)
-![w3](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/w3.png)
-![w4](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/w4.png)
+![w1](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/m-1.jpg)
+![w2](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/m-2.jpg)
+![w3](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/m-3.jpg)
+![w4](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/m-4.jpg)
 
 ## 10. Biblioggraphy
 
