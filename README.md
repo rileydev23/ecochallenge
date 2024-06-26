@@ -63,7 +63,7 @@ The Customer Journey Map is an essential tool for comprehending the user experie
 
 ## 7. Navigation
 
-![Navigation](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Navigation%20Diagram.png)
+![Navigation](https://github.com/rileydev23/proyecto-2-ui/blob/main/images/Navigation.png)
 
 ## 8. Wireframes
 
